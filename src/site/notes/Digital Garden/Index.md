@@ -10,6 +10,10 @@
 
 [Add Me On Instagram](https://instagram.com/chasmasound)
 
+Recent Articles
+
+[[Digital Garden/On Laziness and Statics\|On Laziness and Statics]]
+
 ---
 
 I have spent the last decade building a career as a C++ platform developer and have built myself a home on the Chrome Media team. Some of my recent work includes implementing the backend for [tab region capture](https://developer.chrome.com/docs/web-platform/region-capture/) as well as replacing the [Cast Streaming](https://support.google.com/chromecast/answer/3228332?hl=en&co=GENIE.Platform=Desktop) implementation.
